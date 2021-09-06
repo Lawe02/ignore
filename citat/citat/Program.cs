@@ -9,7 +9,7 @@ namespace citat
 
             int i = 0, count = 1;
 
-            Console.WriteLine("Vilket är ditt favoritcitat på minst 5 or");
+            Console.WriteLine("Vilket är ditt favoritcitat på minst 4 or");
             string citat = Console.ReadLine();
 
 

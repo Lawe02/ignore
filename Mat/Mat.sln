@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mat", "Mat\Mat.csproj", "{4E35B860-5411-42F8-9669-F2FC444B68D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "citat", "..\citat\citat\citat.csproj", "{97921C4A-5174-4EAE-996D-2EF56694C3A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E35B860-5411-42F8-9669-F2FC444B68D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E35B860-5411-42F8-9669-F2FC444B68D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E35B860-5411-42F8-9669-F2FC444B68D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E35B860-5411-42F8-9669-F2FC444B68D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97921C4A-5174-4EAE-996D-2EF56694C3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97921C4A-5174-4EAE-996D-2EF56694C3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97921C4A-5174-4EAE-996D-2EF56694C3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97921C4A-5174-4EAE-996D-2EF56694C3A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93F18D82-12D7-4300-B194-6A995F6C90A4}
+	EndGlobalSection
+EndGlobal

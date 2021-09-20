@@ -9,7 +9,7 @@ namespace Mat
 
 
 
-            int antalFrågor = 3;
+            int antalFrågor = 7;
             string[] food = new string[antalFrågor];
 
             for (int i = 0; i < food.Length; i++)
